@@ -1,6 +1,6 @@
 /********************************************
  * Caixa do Conhecimento   *
- * Versão Gilberto Gil v.2 *
+ * Versão Gilberto Gil v.3 *
  ******************************************** 
  * Criado em 24/04/2022
  * Autor: András Fleury
