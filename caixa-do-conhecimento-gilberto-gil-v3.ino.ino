@@ -1,5 +1,5 @@
 /********************************************
- * Caixa do Conhecimento   *
+ * Cubo do Conhecimento   *
  * Versão Gilberto Gil v.3 *
  ******************************************** 
  * Criado em 24/04/2022
