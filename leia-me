@@ -1,0 +1,10 @@
+O cubo do Conhecimento foi projetado usando os seguintes componentes:
+
+Display LCD 16x2 com módulo I2C;
+MP3-TF-1GP v3.0;
+RFID-RC522;
+Arduino Nano;
+
+Aconselho testar cada componente antes da montagem da placa.
+
+Para testar e até mesmo identificar o endereço do módulo I2C use o programa i2c Scanner que pode ser encontrado no diretório
